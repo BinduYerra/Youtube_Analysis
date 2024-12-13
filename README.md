@@ -1,6 +1,6 @@
 # Youtube_Analysis
-Project Overview
-This repository contains the Jupyter notebook Youtube_Analysis_Bindu.ipynb, which is used to perform detailed analysis on YouTube data. The analysis focuses on identifying trends and patterns in video performance metrics like views, likes, and comments. This project helps in understanding the factors that affect video popularity and viewer engagement on YouTube.
+# Project Overview
+This repository contains the Jupyter notebook **Youtube_Analysis_Bindu.ipynb**, which is used to perform detailed analysis on YouTube data. The analysis focuses on identifying trends and patterns in video performance metrics like views, likes, and comments. This project helps in understanding the factors that affect video popularity and viewer engagement on YouTube.
 
 Files
 Youtube_Analysis_Bindu.ipynb: Main notebook containing the analysis.
